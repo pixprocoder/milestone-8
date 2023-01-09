@@ -7,5 +7,6 @@
  * 1.4 Stand alone component = not relation with others.
  * 2. State
  * 3. Props
- * 4. jsx
+ * 4. Jsx
+ * 5.
  */
